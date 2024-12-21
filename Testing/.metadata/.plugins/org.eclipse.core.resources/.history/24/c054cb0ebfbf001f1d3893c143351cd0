@@ -1,0 +1,28 @@
+package test.googleTest;
+
+import org.junit.jupiter.api.Test;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+
+public class TestNgGoogle {
+
+	
+		@BeforeTest
+		public void Setup() {
+			WebDriverManager.chromedriver().
+		}
+		
+		@Test
+		public void Test() {
+			
+		}
+		
+		@AfterTest
+		public void quit() {
+			
+		}
+		
+	
+}

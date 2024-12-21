@@ -1,0 +1,26 @@
+package test.googleTest;
+
+import org.junit.jupiter.api.Test;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
+
+public class TestNgGoogle {
+
+	
+		@BeforeTest
+		public void Setup() {
+			
+		}
+		
+		@Test
+		public void Test() {
+			
+		}
+		
+		@AfterTest
+		public void quit() {
+			
+		}
+		
+	
+}
