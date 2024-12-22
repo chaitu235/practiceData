@@ -129,7 +129,7 @@
                 <tags>categoryTag:Debug</tags>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_c4WXfr-3Ee-LwbTwqtMzNQ" containerData="8000" selectedElement="_c4WXhb-3Ee-LwbTwqtMzNQ">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_c4WXfr-3Ee-LwbTwqtMzNQ" containerData="8000" selectedElement="_c4WXf7-3Ee-LwbTwqtMzNQ">
               <children xsi:type="basic:PartSashContainer" xmi:id="_c4WXf7-3Ee-LwbTwqtMzNQ" containerData="8000" selectedElement="_c4WXgL-3Ee-LwbTwqtMzNQ" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_c4WXgL-3Ee-LwbTwqtMzNQ" elementId="org.eclipse.ui.editorss" containerData="8000" ref="_c38u0L-3Ee-LwbTwqtMzNQ"/>
                 <children xsi:type="basic:PartStack" xmi:id="_c4WXgb-3Ee-LwbTwqtMzNQ" elementId="topRight" containerData="2000" selectedElement="_c4WXgr-3Ee-LwbTwqtMzNQ">
@@ -258,12 +258,6 @@
         <tags>EditorStack</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>active</tags>
-        <children xsi:type="basic:Part" xmi:id="_3BIeML-3Ee-LwbTwqtMzNQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="GoogleTest.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;GoogleTest.java&quot; partName=&quot;GoogleTest.java&quot; title=&quot;GoogleTest.java&quot; tooltip=&quot;googleTest/src/test/java/test/googleTest/GoogleTest.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/googleTest/src/test/java/test/googleTest/GoogleTest.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;216&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>removeOnHide</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-        </children>
         <children xsi:type="basic:Part" xmi:id="_5W9tIL-3Ee-LwbTwqtMzNQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="googleTest/pom.xml" iconURI="platform:/plugin/org.eclipse.m2e.editor/icons/editor-pom.gif" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; partName=&quot;googleTest/pom.xml&quot; title=&quot;googleTest/pom.xml&quot; tooltip=&quot;googleTest/pom.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/googleTest/pom.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
@@ -271,7 +265,7 @@
           <tags>org.eclipse.m2e.editor.MavenPomEditor</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_tHAvsL-9Ee-LwbTwqtMzNQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TestNgGoogle.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TestNgGoogle.java&quot; partName=&quot;TestNgGoogle.java&quot; title=&quot;TestNgGoogle.java&quot; tooltip=&quot;googleTest/src/test/java/test/googleTest/TestNgGoogle.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/googleTest/src/test/java/test/googleTest/TestNgGoogle.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;501&quot; selectionTopPixel=&quot;120&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TestNgGoogle.java&quot; partName=&quot;TestNgGoogle.java&quot; title=&quot;TestNgGoogle.java&quot; tooltip=&quot;googleTest/src/test/java/test/googleTest/TestNgGoogle.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/googleTest/src/test/java/test/googleTest/TestNgGoogle.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;733&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
@@ -479,7 +473,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_cyeY8L-3Ee-LwbTwqtMzNQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_03GLYL--Ee-e_s0s2ObjWQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_cQuW2r-3Ee-LwbTwqtMzNQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_MYcbkMAcEe-brdHFCSNknw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_cQuW2r-3Ee-LwbTwqtMzNQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_cyeY8b-3Ee-LwbTwqtMzNQ" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -487,8 +481,8 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_cyfAAL-3Ee-LwbTwqtMzNQ" elementId="org.eclipse.ui.workbench.edit">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_03HZgL--Ee-e_s0s2ObjWQ" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" enabled="false" command="_cQmbAL-3Ee-LwbTwqtMzNQ"/>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_03HZgb--Ee-e_s0s2ObjWQ" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="_cQpeUb-3Ee-LwbTwqtMzNQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_MYgtAMAcEe-brdHFCSNknw" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" enabled="false" command="_cQmbAL-3Ee-LwbTwqtMzNQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_MYh7IMAcEe-brdHFCSNknw" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="_cQpeUb-3Ee-LwbTwqtMzNQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_cyfAAb-3Ee-LwbTwqtMzNQ" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -518,7 +512,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_cyfnEL-3Ee-LwbTwqtMzNQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_03InoL--Ee-e_s0s2ObjWQ" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_cQtIrL-3Ee-LwbTwqtMzNQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_MYk-cMAcEe-brdHFCSNknw" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_cQtIrL-3Ee-LwbTwqtMzNQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_cyfnEb-3Ee-LwbTwqtMzNQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -3152,7 +3146,7 @@
   <addons xmi:id="_cPTahb-3Ee-LwbTwqtMzNQ" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_cPTahr-3Ee-LwbTwqtMzNQ" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_cPtDEL-3Ee-LwbTwqtMzNQ" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_0i1yoL--Ee-e_s0s2ObjWQ" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_cQZmoL-3Ee-LwbTwqtMzNQ" elementId="org.eclipse.ui.category.edit" name="Edit"/>
   <categories xmi:id="_cQZmob-3Ee-LwbTwqtMzNQ" elementId="org.eclipse.mylyn.wikitext.ui.editor.category" name="WikiText Markup Editing Commands" description="commands for editing lightweight markup"/>
